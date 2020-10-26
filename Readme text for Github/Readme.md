@@ -2,7 +2,10 @@
 <br>
 Here I will make a programme to auto edit your readme file according what you have added in your directory.
 <br>
-
+You just want to copy link and then you have to run it.
+<br>
+Then it will automatically update your readme.md accordingly.
+<br>
 You need to give path of your readme file with proper name.
 <br>
 And also need to give path of directory.
